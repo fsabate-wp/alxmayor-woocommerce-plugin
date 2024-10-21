@@ -3,7 +3,7 @@
  * Plugin Name: AlxMayor
  * Plugin URI: https://fernandosabate.com/alxmayor
  * Description: Complemento para convertir la tienda WooCommerce en una tienda para mayoristas
- * Version: 1.0.6
+ * Version: 1.0.8
  * Author: Fer Sabaté
  * Author URI: https://fernandosabate.com
  * Text Domain: alxmayor
@@ -18,7 +18,7 @@ if (!defined('ABSPATH')) {
 }
 
 // Definir constantes del plugin
-define('ALXMAYOR_VERSION', '1.0.6');
+define('ALXMAYOR_VERSION', '1.0.7');
 define('ALXMAYOR_PLUGIN_DIR', plugin_dir_path(__FILE__));
 define('ALXMAYOR_PLUGIN_URL', plugin_dir_url(__FILE__));
 
